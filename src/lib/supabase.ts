@@ -1,5 +1,3 @@
-// Supabase-ready configuration placeholder
-// This file will be connected to Lovable Cloud when backend is needed
 
 export const supabaseConfig = {
   tables: [
