@@ -1,73 +1,59 @@
-# Welcome to your Lovable project
+# Astropholic 🎬✨
 
-## Project info
+Astropholic is a creative film festival initiative built to bridge the gap between young filmmakers and real screening opportunities. What started as a small 3-hour school film festival has now evolved into a growing platform for storytelling, creativity, and cinematic expression.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+We believe filmmaking is not just entertainment, but a way to express ideas, emotions, and perspectives that can inspire change.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🌟 About the Project
 
-**Use Lovable**
+Astropholic was created after identifying a major gap between student filmmakers and actual film festival platforms. Most young creators lack exposure, guidance, and opportunities to showcase their work.
 
-Simply visit the  and start prompting.
+This platform aims to:
+- Provide a space for young filmmakers to showcase their films
+- Build a community of creators, storytellers, and cinema lovers
+- Organize film festivals, screenings, and creative events
+- Encourage learning through real-world feedback and exposure
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🚀 Features
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- 🎥 Film submissions and showcases  
+- 🏆 Festival announcements and event pages  
+- 🧑‍🎓 Creator-friendly participation system  
+- 📅 Event scheduling (like 24-hour film labs, screenings, etc.)  
+- 🌐 Community-driven storytelling platform  
+- 📢 Updates, announcements, and film highlights  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠️ Built With
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+This project uses modern web technologies:
+
+- Vite ⚡  
+- React ⚛️  
+- TypeScript 📘  
+- Tailwind CSS 🎨  
+- shadcn/ui 🧩  
+
+---
+
+## 📦 Getting Started
+
+To run this project locally:
+
+```bash
+# Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Navigate into the project
+cd astropholic
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
